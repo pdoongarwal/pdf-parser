@@ -1,5 +1,6 @@
 env/
 .vscode/
-uploads/
+uploads/*
+parsed_csv/*
 __pycache__/
 .ipynb_checkpoints/
